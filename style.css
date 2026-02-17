@@ -1,3 +1,9 @@
+:root {
+  font-family: "Alice", serif;
+  line-height: 150%;
+  color: #573a37;
+}
+
 body {
   background-image: url(assets/fernando-stahelin-xw9d1lm8M_M-unsplash.jpg);
   background-size: cover;
@@ -15,4 +21,21 @@ body {
 img {
   border-radius: 16px;
   width: 100%;
+}
+
+h1 {
+  line-height: 140%
+    font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  color: #291B1A;
 }
