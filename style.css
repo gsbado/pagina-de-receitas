@@ -1,3 +1,18 @@
+body {
+  background-image: url(assets/fernando-stahelin-xw9d1lm8M_M-unsplash.jpg);
+  background-size: cover;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1000px;
+  padding: 24px;
+  background-color: #f3d1bd;
+  border-radius: 24px;
+  margin: 48px auto;
+}
+
 img {
   border-radius: 16px;
+  width: 100%;
 }
