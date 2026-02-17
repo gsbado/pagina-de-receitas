@@ -69,3 +69,14 @@ ul {
 p {
   font-size: 18px;
 }
+
+footer {
+  color: #f3d1bd;
+  text-align: center;
+  padding-bottom: 4px;
+}
+
+footer img {
+  width: 16px;
+  vertical-align: middle;
+}
